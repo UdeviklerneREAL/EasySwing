@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eazySwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eazySwing_jar</output-path>
+    <root id="archive" name="eazySwing.jar">
+      <element id="module-output" name="eazySwing" />
+    </root>
+  </artifact>
+</component>
